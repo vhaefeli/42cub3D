@@ -12,8 +12,8 @@ clone the folders and then launch it in a terminal with:
 "make run"   for a tour in our vine cave.
 
 keys:
-
-a                 move left
+\n
+a                 move left\n
 d                 move right
 w and up arrow    move forward
 s and down arrow  move back
