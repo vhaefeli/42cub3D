@@ -9,6 +9,7 @@ how to play with it:
 clone the folders and then launch it in a terminal with:
 
 "make noel"  for a christmas maze where you have to find Santa
+
 "make run"   for a tour in our vine cave.
 
 keys:
