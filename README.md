@@ -12,13 +12,22 @@ clone the folders and then launch it in a terminal with:
 "make run"   for a tour in our vine cave.
 
 keys:
-\n
-a                 move left\n
-d                 move right
-w and up arrow    move forward
-s and down arrow  move back
-left arrow        turn left 
-right arrow       turn right
-the mouse         turn
-m                 desactivate the mouse
-space             open/close the door
+
+a                 : move left
+
+d                 : move right
+
+w and up arrow    : move forward
+
+s and down arrow  : move back
+
+left arrow        : turn left 
+
+right arrow       : turn right
+
+the mouse         : turn
+
+m                 : desactivate the mouse
+
+space             : open/close the door
+
